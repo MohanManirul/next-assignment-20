@@ -1,2 +1,0 @@
--- AlterTable
-ALTER TABLE `user` MODIFY `admin` TINYINT NOT NULL DEFAULT 1;
